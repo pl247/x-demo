@@ -1,7 +1,6 @@
 #!/bin/bash
 #### Description: simulates UCS IMM setup script for training and demo purposes
-#### Written by: pl247
-
+#### Written by: pl247 
 
 clear
 echo -e "
