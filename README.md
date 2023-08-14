@@ -9,7 +9,7 @@ There are three demos included in this repo:
 
 ## 1. Configuring the Fabric Interconnect for Intersight Managed Mode Demo
 
-The Fabric Interconnect IMM setup simulator is written as a bash shell script. This allows you to demo/simulate the reset of an FI in preparation for using it in IMM mode. To run it simply make the script executable and run it.
+The Fabric Interconnect IMM setup simulator is written as a bash shell script. This allows you to demo/simulate the reset of an FI in preparation for using it in IMM mode. To use it simply make the script executable and run it.
 
 ```
 chmod u+x imm_setup.sh
